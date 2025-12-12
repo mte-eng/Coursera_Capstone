@@ -1,2 +1,4 @@
 # Coursera_Capstone
-this notebook will be mainly used for the capstone project
+Exploratory and analytical notebooks created during the IBM Data Science Capstone.
+Focuses on data cleaning, analysis, and reporting.
+
